@@ -6,7 +6,7 @@
    - Karty z opisem "o mnie" (link wkrótce)
    - Karty animowane (link wkrótce)
    - Animacja linków (link wkrótce)
-   - Animacja auta (link wkrótce)
+   - [Animacja auta](https://github.com/GodnyJ/car-animation) - krótka animacja stworzona w CSS.
 5. CakeZone (link wkrótce) - strona wizytówkowa cukierni
 6. Paradise (link wkrótce) - strona wizytówkowa biura podróży
 7. Diamonds, Gold & Money (link wkrótce) - strona internetowa o inwestowaniu
