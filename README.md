@@ -3,7 +3,7 @@
 2. [ToDo](https://github.com/GodnyJ/todo-list) - aplikacja w JS do zarządzania zadaniami
 3. [Word Filter App](https://github.com/GodnyJ/word-filter-app) - prosta aplikacja wykorzystująca json-server
 4. Snippety:
-   - Karty z opisem "o mnie" (link wkrótce)
+   - [Card description animation](https://github.com/GodnyJ/card-description-animation) - Animacja opisu karty
    - Karty animowane (link wkrótce)
    - Animacja linków (link wkrótce)
    - [Animacja auta](https://github.com/GodnyJ/car-animation) - krótka animacja stworzona w CSS.
