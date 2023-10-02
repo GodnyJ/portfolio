@@ -7,7 +7,7 @@
    - [Card rotation](https://github.com/GodnyJ/card-rotation) - Animacja przedstawiająca rotację kart
    - [Link animation](https://github.com/GodnyJ/link-animation) - Animacja przedstawiająca różne możliwości akcji na hover
    - [Animacja auta](https://github.com/GodnyJ/car-animation) - krótka animacja stworzona w CSS.
-5. CakeZone (link wkrótce) - strona wizytówkowa cukierni
+5. [Cake Zone](https://github.com/GodnyJ/cake-zone/tree/main) - strona wizytówkowa cukierni
 6. Paradise (link wkrótce) - strona wizytówkowa biura podróży
 7. Diamonds, Gold & Money (link wkrótce) - strona internetowa o inwestowaniu
 8. Prosto z drewna (link wkrótce) - strona wizytówkowa firmy stolarskiej (strona w trakcie budowy)
