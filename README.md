@@ -4,7 +4,7 @@
 3. [Word Filter App](https://github.com/GodnyJ/word-filter-app) - prosta aplikacja wykorzystująca json-server
 4. Snippety:
    - [Card description animation](https://github.com/GodnyJ/card-description-animation) - Animacja opisu karty
-   - Karty animowane (link wkrótce)
+   - [Card rotation](https://github.com/GodnyJ/card-rotation) - Animacja przedstawiająca rotację kart
    - Animacja linków (link wkrótce)
    - [Animacja auta](https://github.com/GodnyJ/car-animation) - krótka animacja stworzona w CSS.
 5. CakeZone (link wkrótce) - strona wizytówkowa cukierni
