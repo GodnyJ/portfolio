@@ -1,7 +1,7 @@
-# Portfolio Projetków
+# Portfolio Projektów
 1. [Weather App](https://github.com/GodnyJ/weather-app) - prosta aplikacja pogodowa
 2. [ToDo](https://github.com/GodnyJ/todo-list) - aplikacja w JS do zarządzania zadaniami
-3. Wyszukiwarka produktów (link wkrótce)
+3. [Word Filter App](https://github.com/GodnyJ/word-filter-app) - prosta aplikacja wykorzystująca json-server
 4. Snippety:
    - Karty z opisem "o mnie" (link wkrótce)
    - Karty animowane (link wkrótce)
