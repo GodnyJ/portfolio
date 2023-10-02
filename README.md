@@ -5,7 +5,7 @@
 4. Snippety:
    - [Card description animation](https://github.com/GodnyJ/card-description-animation) - Animacja opisu karty
    - [Card rotation](https://github.com/GodnyJ/card-rotation) - Animacja przedstawiająca rotację kart
-   - Animacja linków (link wkrótce)
+   - [Link animation](https://github.com/GodnyJ/link-animation) - Animacja przedstawiająca różne możliwości akcji na hover
    - [Animacja auta](https://github.com/GodnyJ/car-animation) - krótka animacja stworzona w CSS.
 5. CakeZone (link wkrótce) - strona wizytówkowa cukierni
 6. Paradise (link wkrótce) - strona wizytówkowa biura podróży
