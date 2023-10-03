@@ -4,7 +4,7 @@
 3. [Diamonds, Gold & Money](https://github.com/GodnyJ/Diamonds) - strona internetowa o inwestowaniu
 4. [Prosto z drewna](https://github.com/GodnyJ/Prosto-z-drewna) - strona wizytówkowa firmy stolarskiej **(strona w trakcie budowy)**
 5. [Pizza Menu](https://github.com/GodnyJ/pizza-menu/tree/main) - prosta strona przedstawiająca Menu Pizzeri.
-6. Travelist (link wkrótce) - aplikacja z checklistą przedmiotów przydatnych w podróży.
+6. [Far Away](https://github.com/GodnyJ/far-away) - aplikacja z checklistą przedmiotów przydatnych w podróży.
 7. [Weather App](https://github.com/GodnyJ/weather-app) - prosta aplikacja pogodowa
 8. [ToDo](https://github.com/GodnyJ/ToDo-App) - aplikacja w JS do zarządzania zadaniami
 9. [Word Filter App](https://github.com/GodnyJ/word-filter-app) - prosta aplikacja wykorzystująca json-server
