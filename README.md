@@ -1,7 +1,7 @@
 # Portfolio Projektów
-1. [Cake Zone](https://github.com/GodnyJ/cake-zone/tree/main) - strona wizytówkowa cukierni:
-   - Built with **Vanilla JavaScript**
-   - Style by **SASS** 
+1. [Cake Zone](https://github.com/GodnyJ/cake-zone/tree/main) - The website of Bakery:
+   - The website was built with **JavaScript**, styled by **SASS**, and contains the Slick and AOS libraries essential for **animating elements**. 
+   - 
 3. [Paradise](https://github.com/GodnyJ/Paradise) - strona wizytówkowa biura podróży
 4. [Diamonds, Gold & Money](https://github.com/GodnyJ/Diamonds) - strona internetowa o inwestowaniu
 5. [Prosto z drewna](https://github.com/GodnyJ/Prosto-z-drewna) - strona wizytówkowa firmy stolarskiej **(strona w trakcie budowy)**
