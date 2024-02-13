@@ -10,7 +10,7 @@
    - Adapted to **mobile devices**
    - Focused on **Accessibility** and the best **UX Practices**
 3. [Diamonds, Gold & Money](https://github.com/GodnyJ/Diamonds) - Investing website
-4. [Pizza Menu](https://github.com/GodnyJ/pizza-menu/tree/main) - Reastaurant Menu
+4. [Pizza Menu](https://github.com/GodnyJ/pizza-menu/tree/main) - Restaurant Menu
 5. [Far Away](https://github.com/GodnyJ/far-away) - Application with a checklist of items useful while traveling
 6. [ToDo](https://github.com/GodnyJ/ToDo-App) - Simple task management application
 7. [Straight From Wood](https://github.com/GodnyJ/Prosto-z-drewna) - Carpentry Company website - website under construction
