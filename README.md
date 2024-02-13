@@ -10,10 +10,10 @@
    - Adapted for **mobile devices**
    - Focused on **Accessibility** and the best **UX Practices**
 3. [MG](https://github.com/GodnyJ/Personal-Branding-Website) - Personal branding website:
-   - The website was built with **React**,**JavaScript**.
+   - The website was built with **React**, **JavaScript**
    - Styled with **BEM**
    - Focused on **Responsive Web Design**
-   - Dynamically imported resources from the catalog using **Webpack**.
+   - Dynamically imported resources from the catalog using **Webpack**
  
 4. [Diamonds, Gold & Money](https://github.com/GodnyJ/Diamonds) - Investing website
 5. [Pizza Menu](https://github.com/GodnyJ/pizza-menu/tree/main) - Restaurant Menu
