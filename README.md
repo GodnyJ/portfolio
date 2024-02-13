@@ -1,4 +1,4 @@
-# Portfolio Projektów
+# Project Portfolio
 1. [Cake Zone](https://github.com/GodnyJ/cake-zone/tree/main) - The website of Bakery:
    - The website was built with **JavaScript**
    - Styled by **SASS**
