@@ -1,16 +1,23 @@
 # Project Portfolio
+1. [Smart Home](https://github.com/GodnyJ/Smart-Home) - Panel for energy management in a smart home
+   - Built with **JavaScript**, **React**
+   - Data visualization using the **React-vis** and **D3 library**
+   - Calculating the click position inside an element using **getBoundingClientRect()** function
+   - Layout created with **Grid CSS**, some components are from **Material UI** library
+   - Focused on re-usability by using **Component Composition** practice
+   - The data comes from the Weather **API** (requests made with ****Fetch API)
 1. [Cake Zone](https://github.com/GodnyJ/cake-zone/tree/main) - The website of Bakery:
-   - The website was built with **JavaScript**
+   - Built with **JavaScript**
    - Styled with **SASS**
    - Contains the Slick and AOS libraries essential for **animating elements**
    - Focused on **Responsive Web Design**
 2. [Paradise](https://github.com/GodnyJ/Paradise) - The website of Travel Agency:
-   - The website was built with **JavaScript**
+   - Built with **JavaScript**
    - Styled with **SASS**
    - Adapted for **mobile devices**
    - Focused on **Accessibility** and the best **UX Practices**
 3. [MG](https://github.com/GodnyJ/Personal-Branding-Website) - Personal branding website:
-   - The website was built with **React**, **JavaScript**
+   - Built with **JavaScript**, **React**
    - Styled with **BEM**
    - Focused on **Responsive Web Design**
    - Dynamically imported resources from the catalog using **Webpack**
