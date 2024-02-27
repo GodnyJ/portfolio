@@ -1,4 +1,13 @@
 # Project Portfolio
+1. [Investment Dashboard](https://github.com/GodnyJ/Investment-Dashboard) - The application for visualizing stock financial data
+   - Built with **JavaScript** using **Object-Oriented Programming**
+   - Data visualization using the **D3 library**
+   - Styled with **Tailwind**
+   - **API IEX Cloud** integration
+  
+   ![Frame 13 1 (2)](https://github.com/GodnyJ/portfolio/assets/146650429/08ffab60-5ee4-4a30-8471-e717751ed5ed)
+
+     
 1. [Smart Home](https://github.com/GodnyJ/Smart-Home) - Panel for energy management in a smart home
    - Built with **JavaScript**, **React**
    - Data visualization using the **React-vis** and **D3 library**
@@ -6,6 +15,10 @@
    - Layout created with **Grid CSS**, some components are from **Material UI** library
    - Focused on re-usability by using **Component Composition** practice
    - The data comes from the Weather **API** (requests made with ****Fetch API)
+  
+   ![image 4](https://github.com/GodnyJ/portfolio/assets/146650429/c1a31d9e-caad-48a7-b5e7-081a7f7fa707)
+
+   
 1. [Cake Zone](https://github.com/GodnyJ/cake-zone/tree/main) - The website of Bakery:
    - Built with **JavaScript**
    - Styled with **SASS**
