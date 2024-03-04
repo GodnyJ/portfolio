@@ -18,7 +18,16 @@
   
    ![image 4](https://github.com/GodnyJ/portfolio/assets/146650429/c1a31d9e-caad-48a7-b5e7-081a7f7fa707)
 
-3. [MG](https://github.com/GodnyJ/Personal-Branding-Website) - Personal branding website:
+3. [Recipe Book](https://github.com/GodnyJ/Recipe-Book) - The web app where people can find recipes based on title, see details and add them to favorites.
+   - Built with **React**, **JavaScript**.
+   - Based on **Fake JSON Server** and fetch data with **axios**.
+   - Styled by **CSS**.
+   - Tested with **React Testing Library**, **Jest-DOM**  with the support of **MutationObserver Shim**.
+  
+   ![image 11](https://github.com/GodnyJ/portfolio/assets/146650429/4e76215a-b5b6-4615-926f-003f56786dce)
+
+
+4. [MG](https://github.com/GodnyJ/Personal-Branding-Website) - Personal branding website.
    - Built with **JavaScript**, **React**
    - Styled with **BEM**
    - Focused on **Responsive Web Design**
@@ -26,7 +35,7 @@
   
    ![image 10](https://github.com/GodnyJ/portfolio/assets/146650429/3a464b38-aee5-4a7a-8cdc-8b324ac4e7e1)
    
-4. [Cake Zone](https://github.com/GodnyJ/cake-zone/tree/main) - The website of Bakery:
+5. [Cake Zone](https://github.com/GodnyJ/cake-zone/tree/main) - The website of Bakery.
    - Built with **JavaScript**
    - Styled with **SASS**
    - Contains the Slick and AOS libraries essential for **animating elements**
@@ -34,7 +43,7 @@
 
    ![image 7](https://github.com/GodnyJ/portfolio/assets/146650429/b2109465-2757-4f8e-80ec-f174a9a70ef6)
 
-5. [Paradise](https://github.com/GodnyJ/Paradise) - The website of Travel Agency:
+6. [Paradise](https://github.com/GodnyJ/Paradise) - The website of Travel Agency.
    - Built with **JavaScript**
    - Styled with **SASS**
    - Adapted for **mobile devices**
@@ -42,17 +51,17 @@
   
    ![image 8](https://github.com/GodnyJ/portfolio/assets/146650429/ae5d39fa-2957-410d-acb6-107adca86151)
  
-6. [Diamonds, Gold & Money](https://github.com/GodnyJ/Diamonds) - Investing website
+7. [Diamonds, Gold & Money](https://github.com/GodnyJ/Diamonds) - Investing website.
 
    ![image 9](https://github.com/GodnyJ/portfolio/assets/146650429/dd3c4eda-a1f3-45f8-9e01-5a4bea588fe1)
 
 
-7. [Pizza Menu](https://github.com/GodnyJ/pizza-menu/tree/main) - Restaurant Menu
-8. [Far Away](https://github.com/GodnyJ/far-away) - Application with a checklist of items useful while traveling
-9. [ToDo](https://github.com/GodnyJ/ToDo-App) - Simple task management application
-10. [Straight From Wood](https://github.com/GodnyJ/Prosto-z-drewna) - Carpentry Company website - website under construction
+8. [Pizza Menu](https://github.com/GodnyJ/pizza-menu/tree/main) - Restaurant Menu
+9. [Far Away](https://github.com/GodnyJ/far-away) - Application with a checklist of items useful while traveling
+10. [ToDo](https://github.com/GodnyJ/ToDo-App) - Simple task management application
+11. [Straight From Wood](https://github.com/GodnyJ/Prosto-z-drewna) - Carpentry Company website - website under construction
      
-11. Snippets:
+12. Snippets:
    - [Card description animation](https://github.com/GodnyJ/card-description-animation) 
    - [Card rotation](https://github.com/GodnyJ/card-rotation) 
    - [Link animation](https://github.com/GodnyJ/link-animation) 
