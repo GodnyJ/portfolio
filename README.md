@@ -1,6 +1,14 @@
 # Project Portfolio
      
-1. [Smart Home](https://github.com/GodnyJ/Smart-Home) - Panel for energy management in a smart home
+1. [Pomofocus](https://github.com/GodnyJ/pomofocus) - Recreating an existing app (in progress) 
+   - Built with **React**, **TypeScript**, and **Vite** for fast and optimized development.
+   - Uses **React hooks** to manage timer intervals and task status.
+   - **Integration with ChatGPT API**: A button that **generates subtasks** based on the content of the main task, helping you plan better. Built-in **task assistant chat** that supports the user in organizing           work and answers questions related to productivity.
+   - **User management:** Firebase handles user registration and login, providing secure authentication. All tasks are stored in Firebase and assigned to the specific user.
+   
+   ![image 16](https://github.com/user-attachments/assets/b9c5b66c-4075-414a-b018-52ebe44cf24e)
+
+2. [Smart Home](https://github.com/GodnyJ/Smart-Home) - Panel for energy management in a smart home
    - Built with **JavaScript**, **React**.
    - Data visualization using the **React-vis** and **D3 library**.
    - Calculating the click position inside an element using **getBoundingClientRect()** function.
@@ -10,20 +18,13 @@
   
    ![image 4](https://github.com/GodnyJ/portfolio/assets/146650429/c1a31d9e-caad-48a7-b5e7-081a7f7fa707)
 
-2. [Live Personal Website](https://marekgodny.com/)
+3. [Live Personal Website](https://marekgodny.com/)
    - Created on **WordPress** using the **Elementor** tool.
    - Customized theme with **additional CSS blocks** for animations and disabling unwanted effects.
    - Optimized for responsiveness and performance, ensuring smooth operation across different devices.
    - Implemented logo **carousel**.
 
-   ![portfoliox 1 (1)](https://github.com/user-attachments/assets/5ef76942-3a6f-47b8-bbca-a5578b9e228c)
-
-3. [Pomofocus](https://github.com/GodnyJ/pomofocus) - Recreating an existing app (in progress) 
-   - Built with **React**, **TypeScript**, and **Vite** for fast and optimized development.
-   - Uses **React hooks** to manage timer intervals and task status.
-   - Implements a **dynamic UI** for adding, editing, and organizing tasks, with Pomodoro count tracking.
-   
-   ![image 16](https://github.com/user-attachments/assets/b9c5b66c-4075-414a-b018-52ebe44cf24e)
+   ![portfoliox 1 (1)](https://github.com/user-attachments/assets/5ef76942-3a6f-47b8-bbca-a5578b9e228c) 
 
 4. [Investment Dashboard](https://github.com/GodnyJ/Investment-Dashboard) - The application for visualizing stock financial data
    - Built with **JavaScript** using **Object-Oriented Programming**.
